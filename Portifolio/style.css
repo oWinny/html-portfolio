@@ -1,0 +1,57 @@
+.web {
+    text-align: center;
+    background-color: #1D2D50;
+    padding: 50px;
+}
+
+h3 {
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+}
+
+.heading {
+    font-family: 'Lilita One', cursive;
+    color: black;
+    font-size: 2.4em;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+footer {
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+}
+
+.first-margin {
+    background-color: #1E5F74;
+    border: inherit;
+    padding: 80px;
+    border-radius: 50px;
+    margin: 60px;
+    display: block;
+}
+
+
+.third-margin {
+    background-color: #1E5F74;
+    padding: 80px;
+    border-radius: 60px;
+    margin: 60px;
+    display: block;
+}
+
+.links {
+    padding-bottom: 2%;
+}
+
+.div-color {
+    background-color: #133B5C;
+    border-left: 100px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
